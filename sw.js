@@ -1,3 +1,5 @@
+importScripts("https://progressier.app/UZGuNyQKREIGp7udYESO/sw.js");
+
 const CACHE_NAME = 'pwa-demo-v1';
 const urlsToCache = [
   '/',
